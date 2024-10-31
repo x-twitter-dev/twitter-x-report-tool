@@ -1,10 +1,9 @@
-# instagram-reporter
-A powerful tool for reporting instagram accounts.
+# x-twitter-report-tool
+A powerful tool for reporting x-twitter accounts.
 
 developer: https://t.me/pysmart
 
-
-![3538EC03-31A1-4C43-934D-F2534910A00D_1_105_c](https://github.com/user-attachments/assets/d46f0846-a2c8-4dc6-90f6-57c1f5770ea7)
+![randompic](https://github.com/user-attachments/assets/00d292bf-d173-45c5-8117-56902d5b803b)
 
 
 # STEPS TO FOLLOW
@@ -20,4 +19,4 @@ for further guide:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to instagram users
+automated tool for sending bulk reports to x-twitter users
