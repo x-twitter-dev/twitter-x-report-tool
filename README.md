@@ -7,14 +7,14 @@ developer: https://t.me/pysmart
 
 
 # STEPS TO FOLLOW
-- generate up to 100 sessions
+- generate up to 50 - 100 sessions
 - generate rotational proxies
 developer: https://t.me/pysmart
 
 # USAGE
 - there is the windows os version and mac os version
 
-for further guide:
+for further support:
 
 contact developer: https://t.me/pysmart
 
