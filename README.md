@@ -6,7 +6,7 @@ developer: https://t.me/pysmart
 ![randompic](https://github.com/user-attachments/assets/00d292bf-d173-45c5-8117-56902d5b803b)
 
 
-# STEPS TO FOLLOW
+# STEPS TO FOLLOW CORRECTLY
 - generate up to 50 - 100 sessions
 - generate rotational proxies
 developer: https://t.me/pysmart
