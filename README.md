@@ -18,4 +18,4 @@ for further assistance:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to x-twitter users
+automated tool for sending bulk reports to x formerly twitter users
