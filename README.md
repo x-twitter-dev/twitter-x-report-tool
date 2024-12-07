@@ -19,3 +19,5 @@ for further assistance:
 contact developer: https://t.me/pysmart
 
 automated software for sending bulk reports to x formerly twitter users
+
+X REPORT TOOL
