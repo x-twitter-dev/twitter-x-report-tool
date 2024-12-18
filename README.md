@@ -23,3 +23,4 @@ automated software for sending bulk reports to x formerly twitter users
 X REPORT TOOL
 TWITTER REPORT TOOL
 X MASS REPORT TOOL
+X BAN TOOL
