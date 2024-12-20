@@ -1,7 +1,7 @@
 # x-twitter-report-tool
 A powerful tool for reporting x-twitter accounts.
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 ![randompic](https://github.com/user-attachments/assets/00d292bf-d173-45c5-8117-56902d5b803b)
 
@@ -9,14 +9,14 @@ developer: https://t.me/pysmart
 # STEPS TO FOLLOW CORRECTLY
 - generate up to 50 - 100 sessions
 - generate rotational proxies
-developer: https://t.me/pysmart
+developer:https://t.me/profcoders
 
 # USAGE
 - there is the windows os version and mac os version
 
 for further assistance:
 
-contact developer: https://t.me/pysmart
+contact developer: https://t.me/profcoders
 
 automated software for sending bulk reports to x formerly twitter users
 
